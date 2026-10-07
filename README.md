@@ -24,9 +24,9 @@ The repository currently contains the following laboratory work:
 | Lab | Topic | Status |
 |---|---|---|
 | Lab 01 | Basics of Array | ✅ Completed |
-| Lab 02 | Searching and Sorting | ✅ Completed |
-| Lab 03 | Stack | ✅ Completed |
-| Lab 04 | Queue | ✅ Completed |
+| Lab 02 | Searching and Sorting | In Progress |
+| Lab 03 | Stack | In Progress |
+| Lab 04 | Queue | In Progress |
 
 ---
 
