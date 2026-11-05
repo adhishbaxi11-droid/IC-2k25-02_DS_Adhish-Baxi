@@ -131,7 +131,7 @@ Queues are commonly used in:
 
 ---
 
- **🔗 Lab 05 — Linked Lists**
+ ## 🔗 Lab 05 — Linked Lists
 
 Folder: `Lab_05: Linked_Lists`
 
