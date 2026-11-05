@@ -131,6 +131,49 @@ Queues are commonly used in:
 
 ---
 
+ **🔗 Lab 05 — Linked Lists**
+
+Folder: `Lab_05: Linked_Lists`
+
+This laboratory focuses on the Linked List data structure, its structure, working principles, and fundamental operations. It introduces dynamic memory allocation and explains how nodes are connected using pointers.
+
+### Key Concept
+
+A Linked List is a linear data structure in which elements are stored in individual nodes. Each node contains:
+
+- **Data** — Stores the value of the element.
+- **Pointer (Next)** — Stores the address of the next node.
+
+Unlike arrays, linked lists do not require contiguous memory locations.
+
+### Fundamental Operations
+
+- **Creation** — Create nodes and link them together.
+- **Traversal** — Visit and display each node.
+- **Insertion** — Add a new node at the beginning, end, or a specified position.
+- **Deletion** — Remove a node from the linked list.
+- **Searching** — Find a particular element in the list.
+- **Display** — Print all elements of the linked list.
+
+### Types of Linked Lists
+
+- **Singly Linked List** — Each node points to the next node.
+- **Doubly Linked List** — Each node contains pointers to both previous and next nodes.
+- **Circular Linked List** — The last node points back to the first node.
+
+### Applications
+
+Linked Lists are commonly used in:
+
+- Dynamic memory management
+- Implementation of stacks and queues
+- Music playlists
+- Browser navigation
+- Undo/Redo functionality
+- Graph representation using adjacency lists
+
+---
+
 ## 🗂️ Repository Structure
 
 ```text
