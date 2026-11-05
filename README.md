@@ -192,7 +192,7 @@ The repository is being developed progressively throughout the course. Future up
 
 **Repository Status:** 🟢 Active Development
 
-**Completed Labs:** `4`
+**Completed Labs:** `5`
 
 **Primary Focus:** Data Structures & Algorithms
 
