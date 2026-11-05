@@ -160,6 +160,9 @@ IC-2k25-02_DS_Adhish-Baxi/
 - [x] Sorting
 - [x] Stack
 - [x] Queue
+- [x] Linked Lists
+- [ ] Trees
+- [ ] Graphs
 
 The repository will be updated as additional Data Structures laboratory work is completed.
 
