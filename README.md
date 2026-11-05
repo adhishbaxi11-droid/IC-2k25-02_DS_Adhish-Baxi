@@ -144,6 +144,8 @@ IC-2k25-02_DS_Adhish-Baxi/
 │
 ├── Lab_04: Queue/
 │
+├── Lab_05: Linked_Lists/
+│
 └── README.md
 ```
 
