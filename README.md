@@ -28,6 +28,7 @@ The repository currently contains the following laboratory work:
 | Lab 03 | Stack | ✅ Completed |
 | Lab 04 | Queue | ✅ Completed |
 | Lab 05 | Linked List | In Progress |
+| Lab 06 | Trees | In Progress |
 
 ---
 
