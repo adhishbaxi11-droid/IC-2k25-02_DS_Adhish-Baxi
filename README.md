@@ -11,7 +11,7 @@ The repository is maintained progressively as new Data Structures topics and lab
 ## 👨‍💻 Student
 
 **Name:** Adhish Baxi  
-**Course:** B.Tech Computer Science & Engineering  
+**Course:** MCA 5Yrs(Integrated)  
 **Subject:** Data Structures  
 **Repository:** `IC-2k25-02_DS_Adhish-Baxi`
 
